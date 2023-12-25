@@ -1,5 +1,5 @@
 {
-  "spider":"https://codeberg.org/zjy3204228/zb/raw/branch/main/custom_spider.jar",
+  "spider":"https://raw.githubusercontent.com/asd2003asd/tvboxfty/main/custom_spider.jar",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=转后  aHR0cHM6Ly9jb2RlYmVyZy5vcmcveW91emFpL3l6L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
